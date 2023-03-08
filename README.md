@@ -1,6 +1,6 @@
 # 🔴 Target-Sistemas
 Este é um repositório explicando os desafios e os processos que utilizei para resolver os desafios da Target Sistemas.
-\nLinguagem utilizada: Python🟡🔵
+<p>Linguagem utilizada: Python🟡🔵</p>
 
 ## 🌻 Desafio Fibonacci
 
@@ -37,11 +37,16 @@ else:
 ```
 
 Referência:
-
+```
 https://www.educamaisbrasil.com.br/enem/matematica/sequencia-de-fibonacci
+```
+#### Minhas considerações
+
+Nesse desafio tive que estudar um pouco sobre a Sequência de Fibonacci, mas sem muitas dificuldades. Depois que aprendi a fórmula bastou aplica-la
 
 ## 🧷 Desafio Faturamento
 
 ## 📊 Desafio Percentual
 
 ## 🔀 Desafio Inverter String
+ 
