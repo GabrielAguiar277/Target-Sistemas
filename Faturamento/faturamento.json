@@ -1,0 +1,551 @@
+{
+    "janeiro": [
+        {
+            "dia": 1,
+            "semana": "domingo",
+            "faturamento": 0,
+            "feriado": true
+        },
+        {
+            "dia": 2,
+            "semana": "segunda",
+            "faturamento": 953,
+            "feriado": false
+        },
+        {
+            "dia": 3,
+            "semana": "terca",
+            "faturamento": 1876,
+            "feriado": false
+        },
+        {
+            "dia": 4,
+            "semana": "quarta",
+            "faturamento": 1235,
+            "feriado": false
+        },
+        {
+            "dia": 5,
+            "semana": "quinta",
+            "faturamento": 512,
+            "feriado": false
+        },
+        {
+            "dia": 6,
+            "semana": "sexta",
+            "faturamento": 1167,
+            "feriado": false
+        },
+        {
+            "dia": 7,
+            "semana": "sabado",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 8,
+            "semana": "domingo",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 9,
+            "semana": "segunda",
+            "faturamento": 553,
+            "feriado": false
+        },
+        {
+            "dia": 10,
+            "semana": "terca",
+            "faturamento": 1486,
+            "feriado": false
+        },
+        {
+            "dia": 11,
+            "semana": "quarta",
+            "faturamento": 1619,
+            "feriado": false
+        },
+        {
+            "dia": 12,
+            "semana": "quinta",
+            "faturamento": 1697,
+            "feriado": false
+        },
+        {
+            "dia": 13,
+            "semana": "sexta",
+            "faturamento": 1102,
+            "feriado": false
+        },
+        {
+            "dia": 14,
+            "semana": "sabado",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 15,
+            "semana": "domingo",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 16,
+            "semana": "segunda",
+            "faturamento": 1261,
+            "feriado": false
+        },
+        {
+            "dia": 17,
+            "semana": "terca",
+            "faturamento": 1472,
+            "feriado": false
+        },
+        {
+            "dia": 18,
+            "semana": "quarta",
+            "faturamento": 1643,
+            "feriado": false
+        },
+        {
+            "dia": 19,
+            "semana": "quinta",
+            "faturamento": 1034,
+            "feriado": false
+        },
+        {
+            "dia": 20,
+            "semana": "sexta",
+            "faturamento": 1804,
+            "feriado": false
+        },
+        {
+            "dia": 21,
+            "semana": "sabado",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 22,
+            "semana": "domingo",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 23,
+            "semana": "segunda",
+            "faturamento": 1249,
+            "feriado": false
+        },
+        {
+            "dia": 24,
+            "semana": "terca",
+            "faturamento": 832,
+            "feriado": false
+        },
+        {
+            "dia": 25,
+            "semana": "quarta",
+            "faturamento": 1984,
+            "feriado": false
+        },
+        {
+            "dia": 26,
+            "semana": "quinta",
+            "faturamento": 1186,
+            "feriado": false
+        },
+        {
+            "dia": 27,
+            "semana": "sexta",
+            "faturamento": 1830,
+            "feriado": false
+        },
+        {
+            "dia": 28,
+            "semana": "sabado",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 29,
+            "semana": "domingo",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 30,
+            "semana": "segunda",
+            "faturamento": 1221,
+            "feriado": false
+        },
+        {
+            "dia": 31,
+            "semana": "terca",
+            "faturamento": 1838,
+            "feriado": false
+        }
+        
+    ],
+
+    "fevereiro": [
+        {
+            "dia": 1,
+            "semana": "quarta",
+            "faturamento": 1066,
+            "feriado": false
+        },
+        {
+            "dia": 2,
+            "semana": "quinta",
+            "faturamento": 1507,
+            "feriado": false
+        },
+        {
+            "dia": 3,
+            "semana": "sexta",
+            "faturamento": 1736,
+            "feriado": false
+        },
+        {
+            "dia": 4,
+            "semana": "sabado",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 5,
+            "semana": "domingo",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 6,
+            "semana": "segunda",
+            "faturamento": 1358,
+            "feriado": false
+        },
+        {
+            "dia": 7,
+            "semana": "terca",
+            "faturamento": 1109,
+            "feriado": false
+        },
+        {
+            "dia": 8,
+            "semana": "quarta",
+            "faturamento": 1835,
+            "feriado": false
+        },
+        {
+            "dia": 9,
+            "semana": "quinta",
+            "faturamento": 1275,
+            "feriado": false
+        },
+        {
+            "dia": 10,
+            "semana": "sexta",
+            "faturamento": 1837,
+            "feriado": false
+        },
+        {
+            "dia": 11,
+            "semana": "sabado",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 12,
+            "semana": "domingo",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 13,
+            "semana": "segunda",
+            "faturamento": 1024,
+            "feriado": false
+        },
+        {
+            "dia": 14,
+            "semana": "terca",
+            "faturamento": 1885,
+            "feriado": false
+        },
+        {
+            "dia": 15,
+            "semana": "quarta",
+            "faturamento": 1555,
+            "feriado": false
+        },
+        {
+            "dia": 16,
+            "semana": "quinta",
+            "faturamento": 1825,
+            "feriado": false
+        },
+        {
+            "dia": 17,
+            "semana": "sexta",
+            "faturamento": 1409,
+            "feriado": false
+        },
+        {
+            "dia": 18,
+            "semana": "sabado",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 19,
+            "semana": "domingo",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 20,
+            "semana": "segunda",
+            "faturamento": 0,
+            "feriado": true
+        },
+        {
+            "dia": 21,
+            "semana": "terca",
+            "faturamento": 0,
+            "feriado": true
+        },
+        {
+            "dia": 22,
+            "semana": "quarta",
+            "faturamento": 0,
+            "feriado": true
+        },
+        {
+            "dia": 23,
+            "semana": "quinta",
+            "faturamento": 1053,
+            "feriado": false
+        },
+        {
+            "dia": 24,
+            "semana": "sexta",
+            "faturamento": 1763,
+            "feriado": false
+        },
+        {
+            "dia": 25,
+            "semana": "sabado",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 26,
+            "semana": "domingo",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 27,
+            "semana": "segunda",
+            "faturamento": 1616,
+            "feriado": false
+        },
+        {
+            "dia": 28,
+            "semana": "terca",
+            "faturamento": 1389,
+            "feriado": false
+        }
+    ],
+
+    "marco": [
+        {
+            "dia": 1,
+            "semana": "quarta",
+            "faturamento": 1335,
+            "feriado": false
+        },
+        {
+            "dia": 2,
+            "semana": "quinta",
+            "faturamento": 1362,
+            "feriado": false
+        },
+        {
+            "dia": 3,
+            "semana": "sexta",
+            "faturamento": 1145,
+            "feriado": false
+        },
+        {
+            "dia": 4,
+            "semana": "sabado",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 5,
+            "semana": "domingo",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 6,
+            "semana": "segunda",
+            "faturamento": 1589,
+            "feriado": false
+        },
+        {
+            "dia": 7,
+            "semana": "terca",
+            "faturamento": 0,
+            "feriado": true
+        },
+        {
+            "dia": 8,
+            "semana": "quarta",
+            "faturamento": 1637,
+            "feriado": false
+        },
+        {
+            "dia": 9,
+            "semana": "quinta",
+            "faturamento": 872,
+            "feriado": false
+        },
+        {
+            "dia": 10,
+            "semana": "sexta",
+            "faturamento": 1851,
+            "feriado": false
+        },
+        {
+            "dia": 11,
+            "semana": "sabado",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 12,
+            "semana": "domingo",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 13,
+            "semana": "segunda",
+            "faturamento": 1148,
+            "feriado": false
+        },
+        {
+            "dia": 14,
+            "semana": "terca",
+            "faturamento": 734,
+            "feriado": false
+        },
+        {
+            "dia": 15,
+            "semana": "quarta",
+            "faturamento": 1633,
+            "feriado": false
+        },
+        {
+            "dia": 16,
+            "semana": "quinta",
+            "faturamento": 1746,
+            "feriado": false
+        },
+        {
+            "dia": 17,
+            "semana": "sexta",
+            "faturamento": 1230,
+            "feriado": false
+        },
+        {
+            "dia": 18,
+            "semana": "sabado",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 19,
+            "semana": "domingo",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 20,
+            "semana": "segunda",
+            "faturamento": 1981,
+            "feriado": false
+        },
+        {
+            "dia": 21,
+            "semana": "terca",
+            "faturamento": 0,
+            "feriado": true
+        },
+        {
+            "dia": 22,
+            "semana": "quarta",
+            "faturamento": 1772,
+            "feriado": false
+        },
+        {
+            "dia": 23,
+            "semana": "quinta",
+            "faturamento": 1299,
+            "feriado": false
+        },
+        {
+            "dia": 24,
+            "semana": "sexta",
+            "faturamento": 1168,
+            "feriado": false
+        },
+        {
+            "dia": 25,
+            "semana": "sabado",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 26,
+            "semana": "domingo",
+            "faturamento": 0,
+            "feriado": false
+        },
+        {
+            "dia": 27,
+            "semana": "segunda",
+            "faturamento": 1406,
+            "feriado": false
+        },
+        {
+            "dia": 28,
+            "semana": "terca",
+            "faturamento": 1081,
+            "feriado": false
+        },
+        {
+            "dia": 29,
+            "semana": "quarta",
+            "faturamento": 1684,
+            "feriado": false
+        },
+        {
+            "dia": 30,
+            "semana": "quinta",
+            "faturamento": 1553,
+            "feriado": false
+        },
+        {
+            "dia": 31,
+            "semana": "sexta",
+            "faturamento": 1282,
+            "feriado": false
+        }
+    ]
+}
