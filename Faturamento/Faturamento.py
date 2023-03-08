@@ -74,7 +74,7 @@ for fatura in faturamentos:
     if fatura["faturamento"] > media_receita:
         dias_superou_media.append(fatura)
 
-# Exibindo todos os resultados em tela
+# Exibindo todos os resultados em telaa
 
 print(tabela)
 
