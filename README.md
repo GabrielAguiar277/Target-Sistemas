@@ -4,7 +4,7 @@ Este é um repositório explicando os desafios e os processos que utilizei para 
 
 ## 🌻 Desafio Fibonacci
 
-####Enunciado:
+#### Enunciado:
 
 ```
   Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores
@@ -15,7 +15,7 @@ Este é um repositório explicando os desafios e os processos que utilizei para 
   Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 ```
 
-####Código:
+#### Código:
 
 ```python
 num = int(input("Escolha algum numero inteiro: "))
@@ -36,7 +36,7 @@ else:
 
 ```
 
-####Referência:
+#### Referência:
 ```
 https://www.educamaisbrasil.com.br/enem/matematica/sequencia-de-fibonacci
 ```
@@ -46,16 +46,35 @@ Nesse desafio tive que estudar um pouco sobre a Sequência de Fibonacci, mas sem
 
 ## 🧷 Desafio Faturamento
 
-####Enunciado:
+#### Enunciado:
 
 ```
   Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa,
   na linguagem que desejar, que calcule e retorne:
   
-  <ul>
-    <li>O menor valor de faturamento ocorrido em um dia do mês;</li>
-  </ul>
+  ▪ O menor valor de faturamento ocorrido em um dia do mês;
+  ▪ O maior valor de faturamento ocorrido em um dia do mês;
+  ▪ Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
+  
+  IMPORTANTE:
+  
+  a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
+  b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
+  
 ```
+
+#### Dependências
+
+<p>
+  Importante ressaltar que utilizei uma biblioteca para formar tabelas, caso queira rodar por conta própria será necessário instala-la com o comando:
+</p>
+
+```bash
+  pip install prettytable
+```
+
+#### Código:
+
 
 ## 📊 Desafio Percentual
 
