@@ -4,7 +4,7 @@ Este é um repositório explicando os desafios e os processos que utilizei para 
 
 ## 🌻 Desafio Fibonacci
 
-Enunciado:
+####Enunciado:
 
 ```
   Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores
@@ -15,7 +15,7 @@ Enunciado:
   Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 ```
 
-Código:
+####Código:
 
 ```python
 num = int(input("Escolha algum numero inteiro: "))
@@ -36,7 +36,7 @@ else:
 
 ```
 
-Referência:
+####Referência:
 ```
 https://www.educamaisbrasil.com.br/enem/matematica/sequencia-de-fibonacci
 ```
@@ -45,6 +45,17 @@ https://www.educamaisbrasil.com.br/enem/matematica/sequencia-de-fibonacci
 Nesse desafio tive que estudar um pouco sobre a Sequência de Fibonacci, mas sem muitas dificuldades. Depois que aprendi a fórmula bastou aplica-la
 
 ## 🧷 Desafio Faturamento
+
+####Enunciado:
+
+```
+  Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa,
+  na linguagem que desejar, que calcule e retorne:
+  
+  <ul>
+    <li>O menor valor de faturamento ocorrido em um dia do mês;</li>
+  </ul>
+```
 
 ## 📊 Desafio Percentual
 
